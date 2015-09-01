@@ -1,0 +1,58 @@
+.LoginComponent {
+  display: flex;
+  height: 800px;
+  justify-content: space-around;
+}
+
+.Login {
+  text-align: center;
+  background-color: #f5f5f5;
+  width: 500px;
+  height: 550px;
+  margin: auto;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.LoginComponent-email, .LoginComponent-password {
+  margin: 0 auto;
+}
+
+.Login-logo, .PasswordReset-logo {
+  width: 400px;
+  margin-bottom: 50px;
+}
+
+.Login-recovery-password {
+  margin-top: 10px;
+}
+
+.LoginComponent-submit-button {
+  margin-top: 20px;
+  width: 350px;
+  height: 50px;
+  font-size: large;
+  font-weight: 500;
+}
+
+.Login-error {
+  color: #E51C23;
+}
+
+.PasswordResetComponent {
+  display: flex;
+  height: 800px;
+  justify-content: space-around;
+}
+
+.PasswordReset {
+  text-align: center;
+  background-color: #f5f5f5;
+  width: 500px;
+  height: 460px;
+  margin: auto;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+
